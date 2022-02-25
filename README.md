@@ -1,6 +1,6 @@
 ## Hello, I'm [ᴡ4ʟᴋ36.ᴇɢx](https://instagram.com/_.ane__es._) 
 
-<img align="right" alt="GIF" height="125px" src="https://i.imgur.com/RUuP8x7.mp4" />
+<img align="right" alt="MP4" height="125px" src="https://i.imgur.com/RUuP8x7.mp4" />
 
 :page_with_curl: I'm currently learning:
 - Python
